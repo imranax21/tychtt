@@ -1,2 +1,2 @@
-# tychtt
-Teach your child how to think
+# Teach your child how to think.
+
